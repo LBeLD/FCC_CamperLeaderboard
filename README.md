@@ -10,7 +10,7 @@ Part of freeCodeCamp Data Visualization Certification, this simple leaderboard t
 
 -[REACT](https://reactjs.org/)  
 -[REACT-BOOTSTRAP](https://react-bootstrap.github.io/)  
--[SASS] (http://sass-lang.com/)   
+-[SASS](http://sass-lang.com/)   
 -[GULP](https://gulpjs.com/)   
   
 
