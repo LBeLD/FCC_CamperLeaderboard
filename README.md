@@ -1,6 +1,6 @@
 # Camper Leaderboard
 
-React App that check freeCodeCamp leaderboard. 
+React App that checks freeCodeCamp leaderboard. 
 
 
 ## History
